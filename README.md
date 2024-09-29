@@ -2,7 +2,7 @@
 # Number row characters 1 2 3 4 5 6 7 8 9
 - !-Exclamation mark
 - @ - aT SYMBOL
-- # Hash, pOUND, nUMBER SIGN
+- # - Hash, Pound, ,Number .Sign
 - % - Percent
 - ^ - Up arrow
 -  & - And, Ampersand
