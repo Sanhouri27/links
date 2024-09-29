@@ -9,4 +9,4 @@
 -  * - Start
 - ( - Left bracket
 -  ) - Right bracket
-- [GitHub Pages] (https://github.com/Sanhouri27/links/edit/main/README.md)
+- [GitHub Pages](https://github.com/Sanhouri27/links/edit/main/README.md)
